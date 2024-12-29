@@ -1,0 +1,52 @@
+{
+  "values": [
+    "emfiremod:white_terracotta_stairs",
+    "emfiremod:light_gray_terracotta_stairs",
+    "emfiremod:gray_terracotta_stairs",
+    "emfiremod:black_terracotta_stairs",
+    "emfiremod:brown_terracotta_stairs",
+    "emfiremod:red_terracotta_stairs",
+    "emfiremod:orange_terracotta_stairs",
+    "emfiremod:yellow_terracotta_stairs",
+    "emfiremod:lime_terracotta_stairs",
+    "emfiremod:green_terracotta_stairs",
+    "emfiremod:cyan_terracotta_stairs",
+    "emfiremod:light_blue_terracotta_stairs",
+    "emfiremod:blue_terracotta_stairs",
+    "emfiremod:purple_terracotta_stairs",
+    "emfiremod:magenta_terracotta_stairs",
+    "emfiremod:pink_terracotta_stairs",
+    "emfiremod:terracotta_stairs",
+
+    "emfiremod:white_concrete_stairs",
+    "emfiremod:light_gray_concrete_stairs",
+    "emfiremod:gray_concrete_stairs",
+    "emfiremod:black_concrete_stairs",
+    "emfiremod:brown_concrete_stairs",
+    "emfiremod:red_concrete_stairs",
+    "emfiremod:orange_concrete_stairs",
+    "emfiremod:yellow_concrete_stairs",
+    "emfiremod:lime_concrete_stairs",
+    "emfiremod:green_concrete_stairs",
+    "emfiremod:cyan_concrete_stairs",
+    "emfiremod:light_blue_concrete_stairs",
+    "emfiremod:blue_concrete_stairs",
+    "emfiremod:purple_concrete_stairs",
+    "emfiremod:magenta_concrete_stairs",
+    "emfiremod:pink_concrete_stairs",
+
+    "emfiremod:packed_mud_stairs",
+    "emfiremod:netherrack_stairs",
+    "emfiremod:end_stone_stairs",
+    "emfiremod:calcite_stairs",
+    "emfiremod:dripstone_stairs",
+    "emfiremod:quartz_brick_stairs",
+    "emfiremod:smooth_basalt_stairs",
+
+    "emfiremod:smooth_stone_stairs",
+    "emfiremod:cut_sandstone_stairs",
+    "emfiremod:cut_red_sandstone_stairs",
+
+    "emfiremod:white_painted_stairs"
+  ]
+}

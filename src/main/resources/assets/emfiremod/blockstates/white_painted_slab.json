@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "emfiremod:block/white_painted_slab"
+    },
+    "type=double": {
+      "model": "emfiremod:block/white_painted_planks"
+    },
+    "type=top": {
+      "model": "emfiremod:block/white_painted_slab_top"
+    }
+  }
+}

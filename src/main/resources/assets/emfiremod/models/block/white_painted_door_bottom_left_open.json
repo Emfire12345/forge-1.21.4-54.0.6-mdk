@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "emfiremod:block/white_painted_door_bottom",
+    "top": "emfiremod:block/white_painted_door_top"
+  }
+}

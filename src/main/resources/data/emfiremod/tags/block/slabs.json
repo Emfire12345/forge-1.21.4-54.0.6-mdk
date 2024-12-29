@@ -1,0 +1,48 @@
+{
+  "values": [
+    "emfiremod:white_terracotta_slab",
+    "emfiremod:light_gray_terracotta_slab",
+    "emfiremod:gray_terracotta_slab",
+    "emfiremod:black_terracotta_slab",
+    "emfiremod:brown_terracotta_slab",
+    "emfiremod:red_terracotta_slab",
+    "emfiremod:orange_terracotta_slab",
+    "emfiremod:yellow_terracotta_slab",
+    "emfiremod:lime_terracotta_slab",
+    "emfiremod:green_terracotta_slab",
+    "emfiremod:cyan_terracotta_slab",
+    "emfiremod:light_blue_terracotta_slab",
+    "emfiremod:blue_terracotta_slab",
+    "emfiremod:purple_terracotta_slab",
+    "emfiremod:magenta_terracotta_slab",
+    "emfiremod:pink_terracotta_slab",
+    "emfiremod:terracotta_slab",
+
+    "emfiremod:white_concrete_slab",
+    "emfiremod:light_gray_concrete_slab",
+    "emfiremod:gray_concrete_slab",
+    "emfiremod:black_concrete_slab",
+    "emfiremod:brown_concrete_slab",
+    "emfiremod:red_concrete_slab",
+    "emfiremod:orange_concrete_slab",
+    "emfiremod:yellow_concrete_slab",
+    "emfiremod:lime_concrete_slab",
+    "emfiremod:green_concrete_slab",
+    "emfiremod:cyan_concrete_slab",
+    "emfiremod:light_blue_concrete_slab",
+    "emfiremod:blue_concrete_slab",
+    "emfiremod:purple_concrete_slab",
+    "emfiremod:magenta_concrete_slab",
+    "emfiremod:pink_concrete_slab",
+
+    "emfiremod:packed_mud_slab",
+    "emfiremod:netherrack_slab",
+    "emfiremod:end_stone_slab",
+    "emfiremod:calcite_slab",
+    "emfiremod:dripstone_slab",
+    "emfiremod:quartz_brick_slab",
+    "emfiremod:smooth_basalt_slab",
+
+    "emfiremod:white_painted_slab"
+  ]
+}
